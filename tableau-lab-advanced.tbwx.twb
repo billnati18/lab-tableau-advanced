@@ -872,26 +872,6 @@
       </table>
       <simple-id uuid='{103B9DFA-7964-4A5E-8362-9EE848638EAE}' />
     </worksheet>
-    <worksheet name='Sheet 8'>
-      <table>
-        <view>
-          <datasources />
-          <aggregation value='true' />
-        </view>
-        <style />
-        <panes>
-          <pane selection-relaxation-option='selection-relaxation-allow'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Automatic' />
-          </pane>
-        </panes>
-        <rows />
-        <cols />
-      </table>
-      <simple-id uuid='{B13B0CA0-09CA-432B-8D9F-FC7976034D0A}' />
-    </worksheet>
     <worksheet name='State Treeplot Sheet'>
       <table>
         <view>
@@ -1055,8 +1035,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2050' minheight='2050' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='33' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98120' id='32' param='vert' type-v2='layout-flow' w='99034' x='483' y='940'>
+            <zone h='100000' id='35' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98120' id='34' param='vert' type-v2='layout-flow' w='99034' x='483' y='940'>
                 <zone fixed-size='280' h='49001' id='31' is-fixed='true' name='Boxplot Analysis' w='23959' x='483' y='940'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1461,29 +1441,6 @@
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{6EBF092D-CDE3-468B-A902-3D44198AA0CE}' />
-    </window>
-    <window class='worksheet' name='Sheet 8'>
-      <cards>
-        <edge name='left'>
-          <strip size='160'>
-            <card type='pages' />
-            <card type='filters' />
-            <card type='marks' />
-          </strip>
-        </edge>
-        <edge name='top'>
-          <strip size='2147483647'>
-            <card type='columns' />
-          </strip>
-          <strip size='2147483647'>
-            <card type='rows' />
-          </strip>
-          <strip size='2147483647'>
-            <card type='title' />
-          </strip>
-        </edge>
-      </cards>
-      <simple-id uuid='{22E44631-9039-49B4-8879-A9E6FBD23A4B}' />
     </window>
   </windows>
   <thumbnails>
@@ -2939,20 +2896,6 @@
       62uE4r0oko+hqzRMl2jkZlKsze/BZ215CS2aIm5IZAo1xkYHsC2fwLMxdjEGAMdsgh6iVsii
       hJPoChiGTqNhEY3ufBIFgY/ZtHGsGnVXpi8ZRVa1rhLcxecbXRdrF59rdBdAF59rdBdAF59r
       dBdAF59rdBdAF59rdBdAF59rdBdAF59rdBdAF59r/H88Uo4YlZJoewAAAABJRU5ErkJggg==
-    </thumbnail>
-    <thumbnail height='192' name='Sheet 8' width='192'>
-      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
-      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
-      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
-      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
-      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
-      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
-      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
-      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
-      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
-      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
-      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
-      fBUOM1sAAAAASUVORK5CYII=
     </thumbnail>
     <thumbnail height='192' name='State Treeplot Sheet' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
